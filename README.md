@@ -1,1 +1,1 @@
-# dev-env-go
+# dev-env-go-samples
