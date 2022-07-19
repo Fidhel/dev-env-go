@@ -11,7 +11,7 @@ func main() {
 	//sampleLoop()
 	//echo()
 	//concat("Vuvu", "Zella")
-	//start()
+	start()
 }
 
 func printStacks() {
